@@ -1,0 +1,32 @@
+\\sdc\Student\! 3 курс\!ИСиП-20-2п\!МДК 01.01 Разработка ПМ\Работы студентов\Рахимов Марат\Mnogoulnic\Mnogoulnic\bin\Debug\Mnogoulnic.exe.config
+\\sdc\Student\! 3 курс\!ИСиП-20-2п\!МДК 01.01 Разработка ПМ\Работы студентов\Рахимов Марат\Mnogoulnic\Mnogoulnic\bin\Debug\Mnogoulnic.exe
+\\sdc\Student\! 3 курс\!ИСиП-20-2п\!МДК 01.01 Разработка ПМ\Работы студентов\Рахимов Марат\Mnogoulnic\Mnogoulnic\bin\Debug\Mnogoulnic.pdb
+\\sdc\Student\! 3 курс\!ИСиП-20-2п\!МДК 01.01 Разработка ПМ\Работы студентов\Рахимов Марат\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.csproj.AssemblyReference.cache
+\\sdc\Student\! 3 курс\!ИСиП-20-2п\!МДК 01.01 Разработка ПМ\Работы студентов\Рахимов Марат\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.csproj.SuggestedBindingRedirects.cache
+\\sdc\Student\! 3 курс\!ИСиП-20-2п\!МДК 01.01 Разработка ПМ\Работы студентов\Рахимов Марат\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.Main.resources
+\\sdc\Student\! 3 курс\!ИСиП-20-2п\!МДК 01.01 Разработка ПМ\Работы студентов\Рахимов Марат\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.Properties.Resources.resources
+\\sdc\Student\! 3 курс\!ИСиП-20-2п\!МДК 01.01 Разработка ПМ\Работы студентов\Рахимов Марат\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.csproj.GenerateResource.cache
+\\sdc\Student\! 3 курс\!ИСиП-20-2п\!МДК 01.01 Разработка ПМ\Работы студентов\Рахимов Марат\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.csproj.CoreCompileInputs.cache
+\\sdc\Student\! 3 курс\!ИСиП-20-2п\!МДК 01.01 Разработка ПМ\Работы студентов\Рахимов Марат\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.exe
+\\sdc\Student\! 3 курс\!ИСиП-20-2п\!МДК 01.01 Разработка ПМ\Работы студентов\Рахимов Марат\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.pdb
+D:\Mnogoulnic\Mnogoulnic\bin\Debug\Mnogoulnic.exe.config
+D:\Mnogoulnic\Mnogoulnic\bin\Debug\Mnogoulnic.exe
+D:\Mnogoulnic\Mnogoulnic\bin\Debug\Mnogoulnic.pdb
+D:\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.csproj.AssemblyReference.cache
+D:\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.Main.resources
+D:\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.Properties.Resources.resources
+D:\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.csproj.GenerateResource.cache
+D:\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.csproj.CoreCompileInputs.cache
+D:\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.exe
+D:\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.pdb
+C:\Users\у\Desktop\d\Mnogoulnic\Mnogoulnic\bin\Debug\Mnogoulnic.exe.config
+C:\Users\у\Desktop\d\Mnogoulnic\Mnogoulnic\bin\Debug\Mnogoulnic.exe
+C:\Users\у\Desktop\d\Mnogoulnic\Mnogoulnic\bin\Debug\Mnogoulnic.pdb
+C:\Users\у\Desktop\d\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.csproj.AssemblyReference.cache
+C:\Users\у\Desktop\d\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.csproj.SuggestedBindingRedirects.cache
+C:\Users\у\Desktop\d\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.Main.resources
+C:\Users\у\Desktop\d\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.Properties.Resources.resources
+C:\Users\у\Desktop\d\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.csproj.GenerateResource.cache
+C:\Users\у\Desktop\d\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.csproj.CoreCompileInputs.cache
+C:\Users\у\Desktop\d\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.exe
+C:\Users\у\Desktop\d\Mnogoulnic\Mnogoulnic\obj\Debug\Mnogoulnic.pdb
